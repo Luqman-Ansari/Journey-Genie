@@ -1,0 +1,15 @@
+{
+  "name": "my-agent",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "react-agents": "file:packages/upstreet-agent/packages/react-agents",
+    "upstreet-agent": "file:packages/upstreet-agent",
+    "zod": "^3.23.8",
+    "zod-to-ts": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "@vitejs/plugin-vue": "^5.2.0",
+    "@vitejs/plugin-vue-jsx": "^4.1.0"
+  }
+}
