@@ -1,6 +1,6 @@
 # Personalized Travel Itinerary Planner Agent
 
-This project is an AI agent built using the Upstreet SDK that creates personalized travel itineraries based on the user's interests, budget, time constraints, and desired destination. The agent engages in interactive conversations to gather necessary information and provides a detailed itinerary tailored to the user's preferences. Additionally, the agent adds a touch of humor by generating jokes when the budget is too low or the available time is too short, enhancing the user experience.
+This project is an AI agent built using the Upstreet SDK that creates personalized travel itineraries based on the user's interests, budget, time constraints, and desired destination. The agent engages in interactive conversations to gather necessary information and provides a detailed itinerary tailored to the user's preferences.
 
 ## Table of Contents
 - [Features](#features)
